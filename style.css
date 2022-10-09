@@ -1,0 +1,33 @@
+body {
+  color:black;
+  background-color:white;
+  background-image:url(http://www.bernardwerber.com/images/fond2017_clouds4.jpg);
+  background-repeat:no-repeat;
+  }
+
+
+.arrondie {
+    -moz-border-radius:12px;
+    -webkit-border-radius:12px;
+    border-radius:12px;
+    }
+
+    .contenant {
+        position: relative;
+        text-align: center;
+        color: white;
+        opacity:0.5;
+        
+      }
+    
+      .color {
+        -moz-border-radius:12px;
+    -webkit-border-radius:12px;
+    border-radius:12px;}   
+    
+    
+    .texte_centrer {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);  }
